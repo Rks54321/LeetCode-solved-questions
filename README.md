@@ -36,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0006-zigzag-conversion](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0006-zigzag-conversion/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
