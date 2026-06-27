@@ -18,6 +18,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0007-reverse-integer/) | Medium |
 | [0070-climbing-stairs](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0070-climbing-stairs/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Two Pointers
