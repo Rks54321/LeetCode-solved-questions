@@ -32,11 +32,13 @@
 | [0002-add-two-numbers](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
