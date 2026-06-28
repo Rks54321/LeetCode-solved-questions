@@ -58,4 +58,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0322-coin-change/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/1791-find-center-of-star-graph/) | Easy |
 <!---LeetCode Topics End-->
