@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0001-two-sum/) | Easy |
 | [0018-4sum](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0049-group-anagrams](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0049-group-anagrams/) | Medium |
 | [0198-house-robber](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0322-coin-change/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
@@ -15,6 +16,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0049-group-anagrams/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +55,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0022-generate-parentheses/) | Medium |
+| [0049-group-anagrams](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0049-group-anagrams/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0049-group-anagrams/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
