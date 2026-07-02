@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0001-two-sum/) | Easy |
 | [0018-4sum](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0048-rotate-image](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0049-group-anagrams/) | Medium |
 | [0198-house-robber](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0322-coin-change/) | Medium |
@@ -23,6 +24,7 @@
 | [0002-add-two-numbers](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0070-climbing-stairs/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Two Pointers
@@ -104,4 +106,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0022-generate-parentheses/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
