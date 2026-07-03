@@ -8,6 +8,7 @@
 | [0018-4sum](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0049-group-anagrams/) | Medium |
@@ -19,6 +20,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0037-sudoku-solver](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0049-group-anagrams/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -108,10 +110,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0046-permutations/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0048-rotate-image/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
