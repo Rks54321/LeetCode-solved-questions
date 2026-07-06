@@ -37,6 +37,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0018-4sum](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -60,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0020-valid-parentheses/) | Easy |
@@ -72,6 +74,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0198-house-robber/) | Medium |
