@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0018-4sum](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0035-search-insert-position/) | Easy |
@@ -90,6 +91,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -124,6 +126,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0035-search-insert-position/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
