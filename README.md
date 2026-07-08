@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0018-4sum](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0035-search-insert-position/) | Easy |
@@ -74,6 +75,7 @@
 | [0010-regular-expression-matching](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0049-group-anagrams/) | Medium |
@@ -151,4 +153,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0011-container-with-most-water/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
