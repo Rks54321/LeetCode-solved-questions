@@ -21,6 +21,7 @@
 | [0053-maximum-subarray](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0078-subsets/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0090-subsets-ii/) | Medium |
 | [0198-house-robber](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0322-coin-change/) | Medium |
@@ -58,6 +59,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +142,7 @@
 | [0018-4sum](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
