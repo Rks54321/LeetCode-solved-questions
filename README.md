@@ -18,6 +18,7 @@
 | [0046-permutations](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0090-subsets-ii/) | Medium |
 | [0198-house-robber](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0198-house-robber/) | Medium |
@@ -100,6 +101,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0022-generate-parentheses/) | Medium |
+| [0053-maximum-subarray](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0322-coin-change/) | Medium |
@@ -120,6 +122,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0053-maximum-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
