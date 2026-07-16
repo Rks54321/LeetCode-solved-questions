@@ -27,6 +27,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0136-single-number/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0198-house-robber](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0322-coin-change/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
@@ -52,6 +53,7 @@
 | [0048-rotate-image](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -157,6 +159,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
