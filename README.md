@@ -201,4 +201,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0175-combine-two-tables/) | Easy |
+| [0183-customers-who-never-order](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->
