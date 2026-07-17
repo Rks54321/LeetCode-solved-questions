@@ -197,4 +197,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
