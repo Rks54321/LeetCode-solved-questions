@@ -18,6 +18,7 @@
 | [0046-permutations](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0066-plus-one/) | Easy |
@@ -167,6 +168,7 @@
 | [0022-generate-parentheses](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0090-subsets-ii/) | Medium |
 ## Matrix
