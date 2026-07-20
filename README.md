@@ -51,6 +51,7 @@
 | [0009-palindrome-number](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0070-climbing-stairs/) | Easy |
@@ -184,6 +185,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0136-single-number/) | Easy |
