@@ -130,6 +130,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0322-coin-change/) | Medium |
 ## Graph Theory
@@ -215,15 +216,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
