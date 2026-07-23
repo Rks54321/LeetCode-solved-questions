@@ -166,6 +166,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -221,6 +222,7 @@
 | [0101-symmetric-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +231,7 @@
 | [0101-symmetric-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,4 +240,5 @@
 | [0101-symmetric-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
