@@ -24,13 +24,12 @@ class Solution {
             int size = elementQueue.size();
             for(int i = 0; i < size; i++) {
                 TreeNode element = elementQueue.poll();
-                level.add(element.val);
+                level.add(element.val); 
                 if(element.left != null) elementQueue.add(element.left);
                 if(element.right != null) elementQueue.add(element.right);
             }
             res.add(level);
         }
         return res;
-
     }
 }
