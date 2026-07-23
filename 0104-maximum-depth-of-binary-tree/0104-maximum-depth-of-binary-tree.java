@@ -31,7 +31,7 @@ class Solution {
                     if(element.left != null) elementQueue.add(element.left);
                     if(element.right != null) elementQueue.add(element.right); 
                 }
-                nodesAtLevels++;
+                nodesAtLevels--;
             }
             numbersOfLevels++;
         } 
