@@ -15,26 +15,23 @@
  */
 class Solution {
     public boolean isSymmetric(TreeNode root) {
-        if(root == null) return true;
-        Queue<TreeNode> leftTree = new LinkedList<>();
-        Queue<TreeNode> rightTree = new LinkedList<>();
+        Queue<TreeNode> leftElementQueue = new LinkedList<>();
+        Queue<TreeNode> rightElementQueue = new LinkedList<>();
 
-        leftTree.add(root.left);
-        rightTree.add(root.right);
+        leftElementQueue.add(root.left);
+        rightElementQueue.add(root.right);
 
-        // Loop untill leftTree and RightTree is not empty()
-        while(!leftTree.isEmpty() && !rightTree.isEmpty()) {
-            // Check the elements equality
-            TreeNode leftNode = leftTree.poll();
-            TreeNode rightNode = rightTree.poll();
-            if(leftNode == null && rightNode == null) continue;
-            if(leftNode == null || rightNode == null || leftNode.val != rightNode.val) return false;
+        while(!leftElementQueue.isEmpty() && !rightElementQueue.isEmpty()) {
+            TreeNode leftElement = leftElementQueue.poll();
+            TreeNode rightElement = rightElementQueue.poll();
 
-            // Add other elements
-            leftTree.add(leftNode.left);
-            leftTree.add(leftNode.right);
-            rightTree.add(rightNode.right);
-            rightTree.add(rightNode.left);
+            if(leftElement == null && rightElement == null) continue;
+            if(leftElement == null || rightElement == null || leftElement.val != rightElement.val) return false;
+
+            leftElementQueue.add(leftElement.left);
+            rightElementQueue.add(rightElement.right);
+            leftElementQueue.add(leftElement.right);
+            rightElementQueue.add(rightElement.left); 
         }
         return true;
     }
