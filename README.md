@@ -43,6 +43,7 @@
 | [0037-sudoku-solver](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0133-clone-graph](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0133-clone-graph/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,10 +134,12 @@
 | [0101-symmetric-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0133-clone-graph](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0133-clone-graph/) | Medium |
 | [0322-coin-change](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0322-coin-change/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0133-clone-graph/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/1791-find-center-of-star-graph/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -233,6 +236,7 @@
 | [0101-symmetric-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0133-clone-graph](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0133-clone-graph/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
