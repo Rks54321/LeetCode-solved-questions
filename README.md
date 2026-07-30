@@ -32,6 +32,7 @@
 | [0198-house-robber](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0322-coin-change](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0322-coin-change/) | Medium |
+| [0704-binary-search](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0704-binary-search/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -196,6 +197,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0035-search-insert-position/) | Easy |
+| [0704-binary-search](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
