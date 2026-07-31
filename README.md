@@ -46,6 +46,7 @@
 | [0049-group-anagrams](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0133-clone-graph](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0133-clone-graph/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0217-contains-duplicate/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -110,6 +111,7 @@
 | [0049-group-anagrams](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0125-valid-palindrome/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +219,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,4 +260,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
