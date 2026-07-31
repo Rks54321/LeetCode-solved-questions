@@ -152,6 +152,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0053-maximum-subarray/) | Medium |
+| [0190-reverse-bits](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0191-number-of-1-bits/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -205,6 +206,7 @@
 | [0078-subsets](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0191-number-of-1-bits/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
