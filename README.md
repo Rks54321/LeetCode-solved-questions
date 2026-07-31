@@ -31,6 +31,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0198-house-robber](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0322-coin-change](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0322-coin-change/) | Medium |
 | [0704-binary-search](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0704-binary-search/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
@@ -264,4 +265,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
