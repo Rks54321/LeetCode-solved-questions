@@ -49,6 +49,7 @@
 | [0133-clone-graph](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0133-clone-graph/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0242-valid-anagram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@
 | [0076-minimum-window-substring](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0242-valid-anagram](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +177,7 @@
 | [0056-merge-intervals](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0242-valid-anagram/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
