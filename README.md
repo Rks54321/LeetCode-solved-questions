@@ -294,4 +294,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
