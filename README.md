@@ -298,6 +298,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0037-sudoku-solver/) | Hard |
+| [0051-n-queens](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0051-n-queens/) | Hard |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
