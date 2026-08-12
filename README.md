@@ -303,4 +303,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0037-sudoku-solver/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
