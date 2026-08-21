@@ -315,4 +315,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
