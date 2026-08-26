@@ -15,6 +15,7 @@
 | [0027-remove-element](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0037-sudoku-solver/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0049-group-anagrams/) | Medium |
@@ -78,6 +79,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0125-valid-palindrome/) | Easy |
 ## Linked List
@@ -130,6 +132,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -186,6 +189,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -319,4 +323,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
