@@ -122,6 +122,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0389-find-the-difference/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +243,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,10 +300,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
