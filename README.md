@@ -53,6 +53,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0389-find-the-difference/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@
 | [0125-valid-palindrome](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0389-find-the-difference/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +187,7 @@
 | [0088-merge-sorted-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0389-find-the-difference/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +227,7 @@
 | [0136-single-number](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0389-find-the-difference](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0389-find-the-difference/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
