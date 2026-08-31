@@ -32,6 +32,7 @@
 | [0136-single-number](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0198-house-robber](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0198-house-robber/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0322-coin-change](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0322-coin-change/) | Medium |
@@ -169,10 +170,12 @@
 | [0053-maximum-subarray](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0190-reverse-bits](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +189,7 @@
 | [0049-group-anagrams](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0389-find-the-difference/) | Easy |
@@ -335,4 +339,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0042-trapping-rain-water/) | Hard |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rks54321/LeetCode-solved-questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
